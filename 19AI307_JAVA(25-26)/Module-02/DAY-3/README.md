@@ -24,8 +24,8 @@ To write a Java program to create a class called Person with private instance va
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: MURALI KRISHNA S
-RegisterNumber:  212223230129
+Developed by: PREM R
+RegisterNumber:  212223240124
 */
 
 
@@ -80,5 +80,6 @@ public class Person {
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
