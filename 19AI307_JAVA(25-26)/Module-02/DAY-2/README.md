@@ -26,8 +26,8 @@ To write a class with one static method and one non-static method.
  ```
 /*
 Program to implement a Methods using Java
-Developed by: MURALI KRISHNA S
-RegisterNumber:  212223230129
+Developed by: PREM R
+RegisterNumber:  212223240124
 */
 
 public class main{
@@ -59,5 +59,6 @@ class test{
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
